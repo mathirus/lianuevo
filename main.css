@@ -1,0 +1,80 @@
+
+h1, h4{
+    font-family:'Work Sans', sans-serif;
+}
+
+h1{
+    font-size:3.3rem;
+}
+
+li{
+    margin-top: 5%;
+}
+
+a{
+    font-family:'Work Sans', sans-serif;
+    font-weight: 200;
+    font-weight: lighter;
+}
+
+
+.section {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    }
+  
+    
+    .video-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 15%;
+    }
+    
+
+    .adelante{
+            z-index: 1;
+    }
+  
+.myButton {
+
+	background-color:#030101;
+	border:1px solid #241d13;
+	display:inline-block;
+	cursor:pointer;
+    padding: 0.7% 0.7%;
+	font-size:14px;
+    text-decoration:none;
+    color: red;
+    border-radius: 25px 25px 25px 25px;
+    font-family:'Work Sans';
+
+}
+.myButton:hover {
+
+    background-color: red;
+    transition: 0.5s;
+    color:black;
+    border:1px solid red;
+
+}
+
+@media only screen and (max-width: 956px) {
+    .desaparecer {
+      display: none;
+    }
+  }
+
+  @media only screen and (min-width: 956px) {
+    .desaparecer2 {
+      display: none;
+    }
+  }  
+
+
+

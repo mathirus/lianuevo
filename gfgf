@@ -1,0 +1,45 @@
+    <div class="container-fluid fondo" style=" min-height: 580px;">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+           <!-- <a class="navbar-brand 	d-lg-none d-xl-block" href="#">Navbar</a> --> 
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav mr-auto ml-5">
+                <li class="nav-item active mr-5 ml-5">
+                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item active  mr-5 ml-5">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>                      
+              </ul>
+              <a class="navbar-brand" href="#">Navbar</a>
+    
+              <ul class="navbar-nav ml-auto mr-5 ">
+                <li class="nav-item active mr-5 ml-5">
+                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item active mr-5 ml-5">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>              
+              </ul>
+              
+    
+            </div>
+          </nav>
+          <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    <div class="text-center col-md-8  align-self-center">
+                        <h1>
+                            Conectamos empresas con sus audiencias
+                        </h1>
+                    </div>
+                    <div class="text-center col-md-8  align-self-center">
+                        <button type="button" class="btn btn-primary">Primary</button> 
+                        <button type="button" class="btn btn-primary">Primary</button>
+                    </div>
+                </div>           
+          </div>  
+    </div>
