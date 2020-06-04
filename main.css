@@ -17,6 +17,10 @@ a{
     font-weight: lighter;
 }
 
+.icono{
+    font-size: 50px;
+    color: #25d366;
+}
 
 .section {
     position: relative;
@@ -43,24 +47,24 @@ a{
   
 .myButton {
 
-	background-color:#030101;
-	border:1px solid #241d13;
+	background-color:red;
+	border:1px solid red;
 	display:inline-block;
 	cursor:pointer;
     padding: 0.7% 0.7%;
 	font-size:14px;
     text-decoration:none;
-    color: red;
+    color: black;
     border-radius: 25px 25px 25px 25px;
     font-family:'Work Sans';
 
 }
 .myButton:hover {
 
-    background-color: red;
+    background-color: black;
     transition: 0.5s;
-    color:black;
-    border:1px solid red;
+    color:red;
+    border:1px solid black;
 
 }
 
@@ -78,3 +82,7 @@ a{
 
 
 
+.imagenlogo{
+    width: 70%;
+    height: 20%;
+}
